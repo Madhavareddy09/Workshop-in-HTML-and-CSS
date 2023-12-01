@@ -1,40 +1,43 @@
 # Workshop-in-HTML-and-CSS
+# Aim :
+Develop HTML and CSS code to display the following content.
+# Code :
 ```
 <!DOCTYPE html>
 <html>
 <head>
     <style type="text/css">
-        /* Element Selector */
+        /* Tag Selector */
         h1 {
             color: green;
         }
 
-        /* Element Selector */
+        /* Tag Selector */
         h2 {
             color: red;
         }
 
-        /* Element Selector */
+        /* Tag Selector */
         ul {
             color: orange;
         }
 
         /* Class Selector */
-        .style {
+        .blue-text {
             color: blue;
         }
 
         /* Class Selector */
-        .style2 {
+        .orange-text {
             color: orange;
         }
 
         /* ID Selector */
-        #text {
+        #magenta-text {
             color: magenta;
         }
 
-        /* Element Selector */
+        /* Tag Selector */
         p {
             color: brown;
         }
@@ -60,7 +63,7 @@
         <li>Java Spring Framework</li>
     </ul>
     <h2>Database</h2>
-    <ul class="style">
+    <ul class="blue-text">
         <li>SQLite</li>
         <li>MySQL</li>
         <li>Oracle</li>
@@ -68,8 +71,8 @@
         <li>MongoDB</li>
     </ul>
     <h2>IDE/Editor</h2>
-    <ul class="style2">
-        <li id="text">Visual Studio Code</li>
+    <ul class="orange-text">
+        <li id="magenta-text">Visual Studio Code</li>
         <li>Eclipse</li>
         <li>IntelliJ IDEA</li>
         <li>Eclipse Theia</li>
@@ -78,3 +81,5 @@
 </body>
 </html>
 ```
+# Output :
+![Screenshot 2023-12-01 102709](https://github.com/Madhavareddy09/Workshop-in-HTML-and-CSS/assets/145742470/a1c2bf27-b7df-4082-97ce-392371ff39b0)
