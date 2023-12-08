@@ -1,7 +1,7 @@
 # Workshop-in-HTML-and-CSS
 # Aim :
 Develop HTML and CSS code to display the following content.
-# Code :
+# HTML and CSS Code :
 ```
 <!DOCTYPE html>
 <html>
