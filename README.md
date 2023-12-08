@@ -1,5 +1,5 @@
 # Workshop-in-HTML-and-CSS
-Name : K.Madhavareddy
+Name : K.Madhava Reddy
 
 ID : 23009929
 
